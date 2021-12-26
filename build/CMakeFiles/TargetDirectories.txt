@@ -1,3 +1,0 @@
-/home/creativelk68/Desktop/UFOS/build/CMakeFiles/rebuild_cache.dir
-/home/creativelk68/Desktop/UFOS/build/CMakeFiles/edit_cache.dir
-/home/creativelk68/Desktop/UFOS/build/CMakeFiles/UFOS.dir

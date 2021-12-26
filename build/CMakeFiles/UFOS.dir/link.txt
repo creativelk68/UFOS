@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/UFOS.dir/ufos.c++.o CMakeFiles/UFOS.dir/src/init.c++.o CMakeFiles/UFOS.dir/src/loop.c++.o CMakeFiles/UFOS.dir/src/ufo.c++.o CMakeFiles/UFOS.dir/src/player.c++.o CMakeFiles/UFOS.dir/src/intro.c++.o  -o UFOS  -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio 
